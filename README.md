@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @sanatanik1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?
-- through jay shree ram..
+Jay shree ram..
+radhe-radhe
 
 <!---
 sanatanik1/sanatanik1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
